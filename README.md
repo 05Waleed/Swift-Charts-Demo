@@ -26,9 +26,10 @@ Upon launching the application, users will be presented with the main screen con
 - **Interactive Charts:** Tap or drag on the charts to highlight specific hours and view detailed analytics.
 - **Animated Transitions:** Enjoy smooth animations when updating or switching between data sets.
 
-- ## Screenshots
-- ![Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 44 17](https://github.com/05Waleed/Swift-Charts-Demo/assets/139551937/a1386fb5-c632-4a5b-80f7-a911c3db720d)
-- ![Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 44 25](https://github.com/05Waleed/Swift-Charts-Demo/assets/139551937/973e82e7-656e-4e54-82f5-eea34514a7fe)
+## Screenshots
+<img src="https://github.com/05Waleed/Swift-Charts-Demo/assets/139551937/a1386fb5-c632-4a5b-80f7-a911c3db720d" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 44 17" width="300"/>
+<img src="https://github.com/05Waleed/Swift-Charts-Demo/assets/139551937/973e82e7-656e-4e54-82f5-eea34514a7fe" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 44 25" width="300"/>
+
 
 ## Customization
 
