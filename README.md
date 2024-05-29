@@ -1,5 +1,3 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-29 at 19 44 17](https://github.com/05Waleed/Swift-Charts-Demo/assets/139551937/21abcca9-2e17-4339-a204-e4a541661213)# Swift-Charts-Demo
-
 Swift-Charts-Demo is a SwiftUI-based application that showcases interactive and animated charts for visualizing site analytics data. The application allows users to explore different time periods and graph types to gain insights into their website's performance.
 
 ## Features
